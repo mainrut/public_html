@@ -1,3 +1,4 @@
+%PDF-1.3
 <!DOCTYPE html>
 <html>
 <head>
